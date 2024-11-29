@@ -1,13 +1,9 @@
-# Parcial Magneto
-
-## Introduccion
-Magneto quiere reclutar la mayor cantidad de mutantes para poder luchar contra los X-Mens.
-
-Te ha contratado a ti para que desarrolles un proyecto que detecte si un humano es mutante basándose en su secuencia de ADN.
-
-Para eso te ha pedido crear un programa con un método o función con la siguiente firma:
-
-**isMutant(String[] dna)**
+## Tecnologias usadas
+-Java + Spring Boot: Para la lógica de negocio y el manejo de las solicitudes HTTP.
+-H2 Database: Base de datos en memoria para almacenar temporalmente las secuencias de ADN y estadísticas.
+-Postman: Para probar los endpoints de la API.
+-Gradle: Herramienta de construcción y manejo de dependencias.
+-Intellij Idea: Entorno de desarrollo integrado (IDE)
 
 ## Funcionamiento
 
